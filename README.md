@@ -11,4 +11,4 @@ https://erhalt-statt-wachstum.de
 
 ## Holopin
 
-[![@Isengo1989 Holopin board](https://holopin.io/api/user/board?user=Isengo1989)](https://holopin.io/@Isengo1989)
+[![@isengo1989's Holopin board](https://holopin.io/api/user/board?user=isengo1989)](https://holopin.io/@isengo1989)
